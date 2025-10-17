@@ -1,1 +1,5 @@
 write a program for calculating the compound intrest 
+
+also calculate simple intrest
+
+add some new feature and css
